@@ -12,3 +12,6 @@ a fun macropad for gaming
 - 20x SK6812 MINI-E LEDs
 - 4x M3x16mm screws
 - 4x M3x5mx4mm heatset inserts
+### special notes for hc people
+ the pcb is larger than 100x100, but i have coupons to make that cost less, and will top up remaining stuff myself
+ also i have a few key switches at home to put in to make it have 20.
