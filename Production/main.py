@@ -1,4 +1,5 @@
 #btw this whole thing is a bunch of vibecoded slop. whatever.
+#only a demo.
 # -------------------------------------------------------------
 # STEP 1: IMPORT THE INGREDIENTS
 # We need to bring in the tools required to make the keyboard work.
