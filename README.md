@@ -4,6 +4,8 @@ a fun macropad for gaming
 <img width="997" height="632" alt="image" src="https://github.com/user-attachments/assets/25b75f61-deef-45db-86bc-bbddb1597a6c" />
 <img width="1192" height="681" alt="image" src="https://github.com/user-attachments/assets/a0228cd9-111f-4658-95fe-cce5f020e511" />
 <img width="913" height="411" alt="image" src="https://github.com/user-attachments/assets/c3a85a2c-d7d6-4bad-911f-dcb0c8c7acae" />
+<img width="512" height="682" alt="image" src="https://github.com/user-attachments/assets/3281b500-63d7-4987-8ea7-f996023493a8" />
+
 ## Bom:
 - 1 unsoldered Seeed XIAO RP2040
 - 20x through-hole 1N4148 Diodes
@@ -12,6 +14,8 @@ a fun macropad for gaming
 - 20x SK6812 MINI-E LEDs
 - 4x M3x16mm screws
 - 4x M3x5mx4mm heatset inserts
-### special notes for hc people
- the pcb is larger than 100x100, but i have coupons to make that cost less, and will top up remaining stuff myself
- also i have a few key switches at home to put in to make it have 20.
+
+## take a look
+https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FKtArcher11235%2Fgamepad%2Ftree%2Fmain%2FPCB
+
+ 
