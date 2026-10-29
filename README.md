@@ -18,4 +18,10 @@ a fun macropad for gaming
 ## take a look
 https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FKtArcher11235%2Fgamepad%2Ftree%2Fmain%2FPCB
 
+
+
+https://github.com/user-attachments/assets/3bd6342f-658d-492e-aa05-4c56db0929b1
+
+
+
  
